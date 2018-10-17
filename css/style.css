@@ -1,0 +1,42 @@
+/* Custom Stylesheet */
+
+html,  body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+/* Button Override */
+.btn-success {
+  color: #ffffff;
+  background-color: #FF0000;
+  border-color: #FF0000;
+  border-radius: 100;
+  font-size: 30px;
+}
+
+/* Hero */
+#hero {
+background: url(../img/Photo3.jpg);
+background-size:cover;
+background-position: center;
+height: 100%;
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+#hero > h1 {
+  color: #FF0000;
+  margin-top: -60px
+}
+ c
+/* Navigation Menu */
+.custom-navigation {
+  background
